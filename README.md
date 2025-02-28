@@ -45,6 +45,9 @@ Classroom Bot is a Discord bot that integrates with Google Classroom to manage a
 5. **Database Setup:**
    - Ensure you have a MySQL database set up and update the connection details in `configuration.py`.
 
+6. **Configuration:**
+   - Add the channels IDs and Course IDs inside the `configuration.py`.
+
 ## Usage
 
 - Run the bot:
