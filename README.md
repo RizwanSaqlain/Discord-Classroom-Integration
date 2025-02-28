@@ -1,6 +1,6 @@
-# NewBot
+# Classroom Bot
 
-NewBot is a Discord bot that integrates with Google Classroom to manage announcements and coursework. It allows teachers to send announcements and coursework materials directly to a Discord channel.
+Classroom Bot is a Discord bot that integrates with Google Classroom to manage announcements and coursework. It allows teachers to send announcements and coursework materials directly to a Discord channel.
 
 ## Features
 
